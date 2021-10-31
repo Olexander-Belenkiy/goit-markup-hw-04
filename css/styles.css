@@ -38,10 +38,10 @@ a {
 }
 
 /* *,
-*:before,
-*:after {
-  box-sizing: inherit;
-} */
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  } */
 
 .container {
   width: 1200px;
@@ -140,9 +140,9 @@ a {
 }
 
 /* .section-item.section-list:not(:last-child) {
-  margin-right: 30px;
-  width: calc(100% / 4 - 30px);
-} */
+    margin-right: 30px;
+    width: calc(100% / 4 - 30px);
+  } */
 
 .contacts-item:not(:last-child) {
   margin-right: 30px;
@@ -415,8 +415,8 @@ a {
 }
 
 /* .filtr-list:not(:last-child) {
-  margin-right: 9ps;
-} */
+    margin-right: 9ps;
+  } */
 
 .directions {
   display: flex;
